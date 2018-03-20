@@ -6,7 +6,7 @@ Simple [Electron](http://electron.atom.io) application that allows signing of DK
 
 - Install [Node LTS](https://nodejs.org)
 - Clone this repository
-- `cd dkif-signer`
+- `cd signing-tool`
 - `npm install` to install the application's dependencies
 - `npm start` to start the application
 
