@@ -8,10 +8,10 @@ let window = null;
 app.once('ready', () => {
   // Create a new window
   window = new BrowserWindow({
-    // Set the initial width to 800px
-    width: 800,
-    // Set the initial height to 600px
-    height: 600,
+    // Set the initial width to 1200px
+    width: 1200,
+    // Set the initial height to 900px
+    height: 900,
     // Set the default background color of the window to match the CSS
     // background color of the page, this prevents any white flickering
     backgroundColor: "#D6D8DC",
