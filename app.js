@@ -18,6 +18,7 @@ app.once('ready', () => {
     // Don't show the window until it's ready, this prevents any white flickering
     show: false
   });
+  window.setMenu(null);
 
   // Load a URL in the window to the local index.html path
   window.loadURL(url.format({
